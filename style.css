@@ -1,0 +1,23 @@
+body{
+background: rgb(130,165,200);
+background: linear-gradient(90deg, rgba(130,165,200,1) 20%, rgba(227,227,238,1) 62%, rgba(227,227,238,1) 70%);;
+
+font-family:Impact;
+font-weight: 300;
+text-decoration: wavy;
+text-decoration-color: black;
+text-shadow: 25px;
+}
+
+.image{
+border-width: 8px;
+border-radius: 10px;
+border-color: aqua;
+border-style: double;
+}
+ button{
+    background-color: rgb(192, 180, 164);
+    color: aliceblue;
+    font-family:Arial;
+    font-size: 28px;
+ }
